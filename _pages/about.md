@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Xinyang Tian（田新扬）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
