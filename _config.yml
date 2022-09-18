@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinyang Tian"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "身体力行，知行合一"
   location         : "China Beijing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QZQa5E8AAAAJ&hl=en"
-  email            :
+  email            : tianers@buaa.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
