@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyang Tian's Homepage"
+title                    : "Xinyang Tian | Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
