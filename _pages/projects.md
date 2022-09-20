@@ -12,7 +12,7 @@ author_profile: true
 - Design of electromechanical coupling quick changer.
 <center>
 <img src="../images/robot.jpg" width="50%" height="50%" />
-7-DOF manioulator prototype
+<center>7-DOF manioulator prototype</center>
 </center>
 
 ## 2. Kinematics & Dynamics Modeling and Simulation
@@ -51,6 +51,6 @@ author_profile: true
 - [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
 <center>
-  <img src="../images/MSR.jpg" width="70%" height="70%" />
-  3-DOF modular self-reconfigurable robot
+<img src="../images/MSR.jpg" width="70%" height="70%" />
+<center>3-DOF modular self-reconfigurable robot</center>
 </center>
