@@ -28,7 +28,7 @@ author_profile: true
 
 ## Related Media 
 - [Joint torque sensor]()
-- [Robotic modular joint]()
+- [Robotic modular joint](https://youtu.be/8-BTJ6ExhIA)
 - [7-DOF manipulator]()
 
 ---
