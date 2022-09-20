@@ -4,6 +4,8 @@ title: "My projects"
 permalink: /projects/
 author_profile: true
 ---
+# 7-DOF Modular anthropomorphic manipulator
 
+# Dexterous hand design and compliant control
 
-add my projects
+# Self-reconfigurable modular robot
