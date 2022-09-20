@@ -10,7 +10,7 @@ author_profile: true
 - Design of three size robotic modular joint with embeded joint torque sensor;
 - Design of 7-DOF anthropomorphic manipulator;
 - Design of electromechanical coupling quick changer.
-
+![prototype](../images/robot.jpg)
 ## Kinematics & Dynamics Modeling and Simulation
 - Arm configuration, forward kinematics, workspace(Reachable & Dexterous) and manipulability anasyis;
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
