@@ -19,7 +19,10 @@ author_profile: true
 - Arm configuration, forward kinematics, workspace(Reachable & Dexterous) and manipulability anasyis;
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
 - Dynamics modeing and simulation of 7-DOF manipulator.
-
+<center>
+<img src="../images/kinematics.jpg" width="70%" height="70%" />
+<center>Dexterous hand prototype</center>
+</center>
 ## 3. Flexible Joint Modeling, Parameter Identification, and Compliance Control
 - Flexible joint modeing;
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification;
@@ -39,14 +42,14 @@ author_profile: true
 
 # <font color="#1E90FF">Dexterous Hand Design and Compliant Control</font><br />
 <center>
-<img src="../images/hand.jpg" width="50%" height="50%" />
-Dexterous hand prototype
+<img src="../images/hand.jpg" width="70%" height="70%" />
+<center>Dexterous hand prototype</center>
 </center>
 
 ## Related Media
 - [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
 <center>
-  <img src="../images/MSR.jpg" width="50%" height="50%" />
+  <img src="../images/MSR.jpg" width="70%" height="70%" />
   3-DOF modular self-reconfigurable robot
 </center>
