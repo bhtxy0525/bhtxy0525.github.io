@@ -11,7 +11,7 @@ author_profile: true
 - Design of 7-DOF anthropomorphic manipulator;
 - Design of electromechanical coupling quick changer.
 <center>
-<img src="../images/robot.jpg" width="50%" height="50%" />
+<img src="../images/robot.jpg" width="70%" height="70%" />
 <center>7-DOF manioulator prototype</center>
 </center>
 
