@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ---
-# <font color="#00dddd">7-DOF Modular Anthropomorphic Manipulator</font><br />
+# <font color="#1E90FF">7-DOF Modular Anthropomorphic Manipulator</font><br />
 ## Structure & Hardware Design
 - Design of three size robotic modular joint with embeded joint torque sensor;
 - Design of 7-DOF anthropomorphic manipulator;
@@ -30,8 +30,9 @@ author_profile: true
 - [Joint torque sensor]()
 - [Robotic modular joint]()
 - [7-DOF manipulator]()
+
 ---
 
-# <font color="#00dddd">Dexterous Hand Design and Compliant Control</font><br />
+# <font color="#1E90FF">Dexterous Hand Design and Compliant Control</font><br />
 
-# <font color="#00dddd">Self-Reconfigurable Modular Robot</font><br />
+# <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
