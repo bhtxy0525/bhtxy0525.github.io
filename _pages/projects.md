@@ -12,11 +12,11 @@ author_profile: true
 - Design of electromechanical coupling quick changer.
 <center>
 <img src="../images/robot.jpg" width="70%" height="70%" />
-<center>7-DOF manioulator prototype</center>
+<center>7-DOF manipulator prototype</center>
 </center>
 
 ## **2. Kinematics & Dynamics Modeling and Simulation**
-- Arm configuration, forward kinematics, workspace(Reachable & Dexterous) and manipulability anasyis;
+- Arm configuration, forward kinematics, workspace(Reachable & Dexterous) and manipulability analysis;
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
 - Dynamics modeing and simulation of 7-DOF manipulator.
 <center>
