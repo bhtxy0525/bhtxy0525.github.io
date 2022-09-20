@@ -16,16 +16,17 @@ author_profile: true
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
 - Dynamics modeing and simulation of 7-DOF manipulator.
 
-## Flexible Joint Modeling, parameter identification, and compliance control
+## Flexible Joint Modeling, Parameter Identification, and Compliance Control
 - Flexible joint modeing;
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification
 - Full-state feedback control.
 
-## 7-DOF manipulator Compliant Control
+## 7-DOF Manipulator Compliance Control
 - Joint space impedance control;
 - Cartesian space impedance control;
 - Nullspace impedance control.
 ---
+
 # <font color="#00dddd">Dexterous Hand Design and Compliant Control</font><br />
 
 # <font color="#00dddd">Self-Reconfigurable Modular Robot</font><br />
