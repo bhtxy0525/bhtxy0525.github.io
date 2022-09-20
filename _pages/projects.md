@@ -18,7 +18,7 @@ author_profile: true
 
 ## Flexible Joint Modeling, Parameter Identification, and Compliance Control
 - Flexible joint modeing;
-- Motor-torque coefficient identification, friction identification, stiffness and damping identification
+- Motor-torque coefficient identification, friction identification, stiffness and damping identification;
 - Full-state feedback control.
 
 ## 7-DOF Manipulator Compliance Control
