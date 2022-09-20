@@ -53,13 +53,12 @@ author_profile: true
 
 ## Related Media
 - [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
-- Proposed an electromechanical interface for power & communication transmission and orientation detection;
-- Developed a human-interaction software 3-DOF self-reconfigurable robot based on Qt Creator, and a series of experiments of the prototype were carried out.
 
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
 ## Main work:
-- Responsible for the 3-DOF self-reconfigurable robot design, including modular joint design (structure),
-connector design (structure & hardware circuit);
+- Responsible for the 3-DOF self-reconfigurable robot design, including modular joint design (structure), connector design (structure & hardware circuit);
+- Proposed an electromechanical interface for power & communication transmission and orientation detection;
+- Developed a human-interaction software 3-DOF self-reconfigurable robot based on Qt Creator, and a series of experiments of the prototype were carried out.
 <center>
 <img src="../images/MSR.jpg" width="70%" height="70%" />
 <center>3-DOF modular self-reconfigurable robot</center>
