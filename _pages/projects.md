@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ---
-# 7-DOF Modular Anthropomorphic Manipulator
+# <font color="#006666">7-DOF Modular Anthropomorphic Manipulator</font><br />
 ## Structure & Hardware Design
 - Design of three size robotic modular joint with embeded joint torque sensor;
 - Design of 7-DOF anthropomorphic manipulator;
