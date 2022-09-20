@@ -27,7 +27,7 @@ author_profile: true
 - Nullspace impedance control.
 
 ## Related Media 
-- [Joint torque sensor]()
+- [Joint torque sensor](https://youtu.be/-RE1b1pkxbM)
 - [Robotic modular joint](https://youtu.be/8-BTJ6ExhIA)
 - [7-DOF manipulator]()
 
