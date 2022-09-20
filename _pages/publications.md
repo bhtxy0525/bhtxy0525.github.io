@@ -11,6 +11,7 @@ author_profile: true
 - Qiang Zhan, Xinyang Tian, and Qinhuan Xu, A Continuous Approach for Task Transition of Redundant robot Under Hard Joint Constraints, *IEEE Robotics and Automation Letters*. (Ready for submit).
 - Xinyang Tian, Qiang Zhan, and Ziyang Cheng. Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Modular Manipulator. *IEEE Sensors*. (On line)
 ---
+
 ## **2021**
 
 - Xinyang Tian, Qiang Zhan. A Hermaphrodite Electromechanical Connector for Self-reconfigurable Robot Modules, *IEEE/ASME Transactions on Mechatronics*, vol. 26, no. 6, pp: 3276-3281, 2021. 
