@@ -42,6 +42,9 @@ author_profile: true
 ---
 
 # <font color="#1E90FF">Dexterous Hand Design and Compliant Control</font><br />
+- Proposed a simplified configuration to imitate the daily human hand grasps;
+- Dexterous hand design, including modular finger design, thumb design, palm design, and layout optimization;
+- Developed a hand prototype, and the dexterity of the prototype was verified by Cutkosky classification test.
 <center>
 <img src="../images/hand.jpg" width="70%" height="70%" />
 <center>Dexterous hand prototype</center>
@@ -49,6 +52,7 @@ author_profile: true
 
 ## Related Media
 - [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
+
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
 <center>
 <img src="../images/MSR.jpg" width="70%" height="70%" />
