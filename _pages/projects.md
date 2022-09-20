@@ -42,6 +42,7 @@ author_profile: true
 ---
 
 # <font color="#1E90FF">Dexterous Hand Design and Compliant Control</font><br />
+## Main work:
 - Proposed a simplified configuration to imitate the daily human hand grasps;
 - Dexterous hand design, including modular finger design, thumb design, palm design, and layout optimization;
 - Developed a hand prototype, and the dexterity of the prototype was verified by Cutkosky classification test.
