@@ -47,6 +47,6 @@ Dexterous hand prototype
 - [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
 <center>
-<img src="../images/MSR.jpg" width="50%" height="50%" />
-3-DOF modular self-reconfigurable robot
+  <img src="../images/MSR.jpg" width="50%" height="50%" />
+  3-DOF modular self-reconfigurable robot
 </center>
