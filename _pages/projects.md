@@ -29,7 +29,11 @@ author_profile: true
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification;
 - Full-state feedback control.
 <center>
-<img src="../images/Fjoint.jpg" width="70%" height="70%" />
+<img src="../images/Fjoint.jpg" width="50%" height="50%" />
+<center>Flexible joint modeling</center>
+</center>
+<center>
+<img src="../images/software.jpg" width="50%" height="50%" />
 <center>Flexible joint modeling</center>
 </center>
 
