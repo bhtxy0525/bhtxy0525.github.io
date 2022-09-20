@@ -34,5 +34,6 @@ author_profile: true
 ---
 
 # <font color="#1E90FF">Dexterous Hand Design and Compliant Control</font><br />
-
+## Related Media
+- [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
