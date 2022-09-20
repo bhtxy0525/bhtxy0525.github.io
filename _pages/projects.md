@@ -10,7 +10,10 @@ author_profile: true
 - Design of three size robotic modular joint with embeded joint torque sensor;
 - Design of 7-DOF anthropomorphic manipulator;
 - Design of electromechanical coupling quick changer.
-![prototype](../images/robot.jpg 400x300)
+<center>
+<img src="../images/robot.jpg" width="50%" height="50%" />
+7-DOF manioulator prototype
+</center>
 
 ## 2. Kinematics & Dynamics Modeling and Simulation
 - Arm configuration, forward kinematics, workspace(Reachable & Dexterous) and manipulability anasyis;
@@ -35,8 +38,15 @@ author_profile: true
 ---
 
 # <font color="#1E90FF">Dexterous Hand Design and Compliant Control</font><br />
-![prototype](../images/hand.jpg)
+<center>
+<img src="../images/hand.jpg" width="50%" height="50%" />
+Dexterous hand prototype
+</center>
+
 ## Related Media
 - [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
-![prototype](../images/MSR.jpg)
+<center>
+<img src="../images/MSR.jpg" width="50%" height="50%" />
+3-DOF modular self-reconfigurable robot
+</center>
