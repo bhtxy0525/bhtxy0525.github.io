@@ -34,7 +34,7 @@ author_profile: true
 </center>
 <center>
 <img src="../images/software.jpg" width="50%" height="50%" />
-<center>Flexible joint modeling</center>
+<center>Identification software</center>
 </center>
 
 ## 4. 7-DOF Manipulator Compliance Control
