@@ -25,6 +25,11 @@ author_profile: true
 - Joint space impedance control;
 - Cartesian space impedance control;
 - Nullspace impedance control.
+
+## Related Media 
+- [Joint torque sensor]()
+- [Robotic modular joint]()
+- [7-DOF manipulator]()
 ---
 
 # <font color="#00dddd">Dexterous Hand Design and Compliant Control</font><br />
