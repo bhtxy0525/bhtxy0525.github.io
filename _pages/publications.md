@@ -18,6 +18,7 @@ author_profile: true
 - Xinyang Tian, Qinhuan Xu, and Qiang Zhan. An analytical inverse kinematics solution with joint limits avoidance of 7-DOF anthropomorphic manipulators without offset, *Journal of the Franklin Institute*, vol.358, no.2, pp.1252-1272, 2021. 
 - Qinhuan Xu, Qiang Zhan, and Xinyang Tian. Link Lengths Optimization Based on Multiple Performance Indexes of Anthropomorphic Manipulators, *IEEE Access*, vol. 9, pp. 20089-20099, 2021. 
 ---
+
 ## **2019**
 
 - Xinyang Tian, Qiang Zhan. Design of ArmBot: A Self-Reconfigurable Robot Module with Electromechanical Connectors, In Proc. *2019 4th International Conference on Robotics and Automation Engineering (ICRAE)*, 2019, pp. 163-167.
