@@ -28,6 +28,10 @@ author_profile: true
 - Flexible joint modeing;
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification;
 - Full-state feedback control.
+<center>
+<img src="../images/Fjoint.jpg" width="70%" height="70%" />
+<center>Flexible joint modeling</center>
+</center>
 
 ## 4. 7-DOF Manipulator Compliance Control
 - Joint space impedance control;
