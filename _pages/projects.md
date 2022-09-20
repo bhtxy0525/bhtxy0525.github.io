@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ---
-# <font color="#006666">7-DOF Modular Anthropomorphic Manipulator</font><br />
+# <font color="#00dddd">7-DOF Modular Anthropomorphic Manipulator</font><br />
 ## Structure & Hardware Design
 - Design of three size robotic modular joint with embeded joint torque sensor;
 - Design of 7-DOF anthropomorphic manipulator;
@@ -26,6 +26,6 @@ author_profile: true
 - Cartesian space impedance control;
 - Nullspace impedance control.
 ---
-# Dexterous Hand Design and Compliant Control
+# <font color="#00dddd">Dexterous Hand Design and Compliant Control</font><br />
 
-# Self-Reconfigurable Modular Robot
+# <font color="#00dddd">Self-Reconfigurable Modular Robot</font><br />
