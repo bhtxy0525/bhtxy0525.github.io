@@ -16,6 +16,6 @@ I received the B.E. degree in Mechanical Engineering from Northeast Agricultural
 - Bachelor of engineering in Mechanical Engineering, Northeast Agricultural University, Harbin, China, 2012-2016.
 
 # **Research**
-- Robotics modular joint and redundant manipulator design; 
+- Robotic modular joint and redundant manipulator design; 
 - Kinematics/dynamics modeing, control, and simulation; 
 - Impedance control, collision detection, and physical-human interaction.
