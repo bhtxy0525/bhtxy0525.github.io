@@ -15,7 +15,7 @@ author_profile: true
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
 - Dynamics modeing and simulation of 7-DOF manipulator.
 ## Flexible Joint Modeling, parameter identification, and compliance control
-- Flexible joitn modeing;
+- Flexible joint modeing;
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification
 - Full-state feedback control.
 ## 7-DOF manipulator Compliant Control
