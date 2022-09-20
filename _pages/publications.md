@@ -9,7 +9,6 @@ author_profile: true
 
 - Xinyang Tian, Qiang Zhan, and Yin Zhang. Simplified Configuration Design of an Anthropomorphic Hand Imitating Specific Human Hand Grasps. *IEEE Robotics and Automation Letters*. (Under review)
 - Qiang Zhan, Xinyang Tian, and Qinhuan Xu, A Continuous Approach for Task Transition of Redundant robot Under Hard Joint Constraints, *IEEE Robotics and Automation Letters*. (Ready for submit).
-- Xinyang Tian, Qiang Zhan, and Ziyang Cheng. Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Modular Manipulator, *IEEE Sensors*. (On line)
 
 ## **2021**
 
