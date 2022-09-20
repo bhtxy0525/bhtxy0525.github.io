@@ -23,6 +23,7 @@ author_profile: true
 <img src="../images/kinematics.jpg" width="70%" height="70%" />
 <center>Dexterous hand prototype</center>
 </center>
+
 ## 3. Flexible Joint Modeling, Parameter Identification, and Compliance Control
 - Flexible joint modeing;
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification;
