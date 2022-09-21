@@ -98,7 +98,7 @@ author_profile: true
 </table>
 
 <table>
-<caption>7-DOF manipulator</caption>
+<caption>7-DOF manipulator specifications</caption>
   <tr>
     <th>Properties</th>
     <th>Ours</th>
@@ -171,7 +171,7 @@ author_profile: true
 - Developed a hand prototype, and the dexterity of the prototype was verified by Cutkosky classification test.
 
 <table>
-<caption>Dexterous hand</caption>
+<caption>Dexterous hand specifications</caption>
   <tr>
     <th>Properties</th>
     <th>Ours</th>
