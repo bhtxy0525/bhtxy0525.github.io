@@ -204,7 +204,7 @@ author_profile: true
 </center>
 
 ## **Related Media**
-- [Cutkosky test of dexterous](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
+- [Cutkosky test of CMIC-6 dexterous hand](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 - [Dynamic grasp test of CMIC-6 dexterous hand](https://youtu.be/DGV9z6wZOHE)
 
 # <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
