@@ -199,7 +199,7 @@ author_profile: true
 </table>
 
 <center>
-<img src="../images/hand.jpg" width="70%" height="100%" />
+<img src="../images/hand.jpg" width="100%" height="100%" />
 <center>Dexterous hand prototype</center>
 </center>
 
