@@ -21,27 +21,27 @@ author_profile: true
   </tr>
   <tr>
     <td>Size</td>
-    <td>φ96mm×110mm</td>
-    <td>φ107mm×140mm</td>
-    <td>φ107mm×140mm</td>
+    <td>φ96 mm×110 mm</td>
+    <td>φ107 mm×140 mm</td>
+    <td>φ107 mm×140 mm</td>
   </tr>
   <tr>
     <td>Mass</td>
-    <td>1.12kg</td>
-    <td>1.75kg</td>
-    <td>2.35kg</td>
+    <td>1.12 kg</td>
+    <td>1.75 kg</td>
+    <td>2.35 kg</td>
   </tr>
   <tr>
     <td>Rated torque</td>
-    <td>27Nm</td>
-    <td>75Nm</td>
-    <td>150Nm</td>
+    <td>27 Nm</td>
+    <td>75 Nm</td>
+    <td>150 Nm</td>
   </tr>
   <tr>
     <td>Rated speed</td>
-    <td>4.7rad/s</td>
-    <td>2.21rad/s</td>
-    <td>1.83rad/s</td>
+    <td>4.7 rad/s</td>
+    <td>2.21 rad/s</td>
+    <td>1.83 rad/s</td>
   </tr>
   <tr>
     <td>Communication</td>
@@ -67,27 +67,27 @@ author_profile: true
   </tr>
   <tr>
     <td>Size</td>
-    <td>φ60mm×H9mm</td>
-    <td>φ70mm×H10mm</td>
-    <td>φ80mm×H11mm</td>
+    <td>φ60 mm×H9 mm</td>
+    <td>φ70 mm×H10 mm</td>
+    <td>φ80 mm×H11 mm</td>
   </tr>
   <tr>
     <td>Mass</td>
-    <td>36.0g</td>
-    <td>56.7kg</td>
-    <td>80.2kg</td>
+    <td>36.0 g</td>
+    <td>56.7 g</td>
+    <td>80.2 g</td>
   </tr>
   <tr>
     <td>Rated torque</td>
-    <td>35Nm</td>
-    <td>90Nm</td>
-    <td>200Nm</td>
+    <td>35 Nm</td>
+    <td>90 Nm</td>
+    <td>200 Nm</td>
   </tr>
   <tr>
     <td>Resolution</td>
-    <td>0.02Nm</td>
-    <td>0.1Nm</td>
-    <td>0.3Nm</td>
+    <td>0.02 Nm</td>
+    <td>0.1 Nm</td>
+    <td>0.3 Nm</td>
   </tr>
   <tr>
     <td>Frequency</td>
@@ -105,11 +105,11 @@ author_profile: true
   </tr>
   <tr>
     <td>Rated torque</td>
-    <td>5kg</td>
+    <td>5 kg</td>
   </tr>
   <tr>
     <td>Mass</td>
-    <td>15.7kg</td>
+    <td>15.7 kg</td>
   </tr>
   <tr>
     <td>DOF</td>
@@ -117,7 +117,7 @@ author_profile: true
   </tr>
   <tr>
     <td>Reach</td>
-    <td>850mm</td>
+    <td>850 mm</td>
   </tr>
   <tr>
     <td>communication</td>
@@ -178,11 +178,11 @@ author_profile: true
   </tr>
   <tr>
     <td>Size</td>
-    <td>H215mm×L148mm×W75</td>
+    <td>H215 mm×L148 mm×W75 mm</td>
   </tr>
   <tr>
     <td>Mass</td>
-    <td>0.56kg</td>
+    <td>0.56 kg</td>
   </tr>
   <tr>
     <td>DOF</td>
@@ -190,7 +190,7 @@ author_profile: true
   </tr>
   <tr>
     <td>Load</td>
-    <td>1.3kg (envelop grasping)</td>
+    <td>1.3 kg (envelop grasping)</td>
   </tr>
   <tr>
     <td>communication</td>
@@ -222,15 +222,15 @@ author_profile: true
   </tr>
   <tr>
     <td>Mass</td>
-    <td>0.75kg</td>
+    <td>0.75 kg</td>
     <td>Size</td>
-    <td>φ75mm×L76mm</td>
+    <td>φ75 mm×L76 mm</td>
   </tr>
   <tr>
     <td>Mass</td>
-    <td>0.75kg</td>
+    <td>0.75 kg</td>
     <td>Size</td>
-    <td>φ75mm×L76mm</td>
+    <td>φ75 mm×L76 mm</td>
   </tr>
   <tr>
     <td>Break</td>
@@ -240,7 +240,7 @@ author_profile: true
   </tr>
   <tr>
     <td>Encoder</td>
-    <td>Multi-abosolute</td>
+    <td>Multi-absolute</td>
     <td>Sensor</td>
     <td>Current, voltage, temperature</td>
   </tr>
