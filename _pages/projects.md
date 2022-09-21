@@ -126,7 +126,7 @@ author_profile: true
 </table>
 
 <center>
-<img src="../images/robot.jpg" width="70%" height="70%" />
+<img src="../images/robot.jpg" width="100%" height="100%" />
 <center>7-DOF manipulator prototype</center>
 </center>
 
@@ -135,7 +135,7 @@ author_profile: true
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
 - Dynamics modeing and simulation of 7-DOF manipulator.
 <center>
-<img src="../images/kinematics.jpg" width="70%" height="70%" />
+<img src="../images/kinematics.jpg" width="100%" height="100%" />
 <center>Dexterous hand prototype</center>
 </center>
 
@@ -144,11 +144,11 @@ author_profile: true
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification;
 - Full-state feedback control.
 <center>
-<img src="../images/Fjoint.jpg" width="50%" height="50%" />
+<img src="../images/Fjoint.jpg" width="100%" height="100%" />
 <center>Flexible joint modeling</center>
 </center>
 <center>
-<img src="../images/software.png" width="50%" height="50%" />
+<img src="../images/software.png" width="100%" height="100%" />
 <center>Identification software</center>
 </center>
 
@@ -199,7 +199,7 @@ author_profile: true
 </table>
 
 <center>
-<img src="../images/hand.jpg" width="70%" height="70%" />
+<img src="../images/hand.jpg" width="70%" height="100%" />
 <center>Dexterous hand prototype</center>
 </center>
 
@@ -227,10 +227,10 @@ author_profile: true
     <td>φ75 mm×L76 mm</td>
   </tr>
   <tr>
-    <td>Mass</td>
-    <td>0.75 kg</td>
-    <td>Size</td>
-    <td>φ75 mm×L76 mm</td>
+    <td>Rated torque</td>
+    <td>15 Nm</td>
+    <td>Rated speed</td>
+    <td>15 RPM</td>
   </tr>
   <tr>
     <td>Break</td>
@@ -252,6 +252,6 @@ author_profile: true
   </tr>
 </table>
 <center>
-<img src="../images/MSR.jpg" width="70%" height="70%" />
+<img src="../images/MSR.jpg" width="100%" height="100%" />
 <center>3-DOF modular self-reconfigurable robot</center>
 </center>
