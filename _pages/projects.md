@@ -169,6 +169,35 @@ author_profile: true
 - Proposed a simplified configuration to imitate the daily human hand grasps;
 - Dexterous hand design, including modular finger design, thumb design, palm design, and layout optimization;
 - Developed a hand prototype, and the dexterity of the prototype was verified by Cutkosky classification test.
+
+<table>
+<caption>Dexterous hand</caption>
+  <tr>
+    <th>Properties</th>
+    <th>Ours</th>
+  </tr>
+  <tr>
+    <td>Size</td>
+    <td>H215mm×L148mm×W75</td>
+  </tr>
+  <tr>
+    <td>Mass</td>
+    <td>0.56kg</td>
+  </tr>
+  <tr>
+    <td>DOF</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Load</td>
+    <td>1.3kg (envelop grasping)</td>
+  </tr>
+  <tr>
+    <td>communication</td>
+    <td>EtherCAT</td>
+  </tr>
+</table>
+
 <center>
 <img src="../images/hand.jpg" width="70%" height="70%" />
 <center>Dexterous hand prototype</center>
@@ -182,6 +211,46 @@ author_profile: true
 - Responsible for the 3-DOF self-reconfigurable robot design, including modular joint design (structure), connector design (structure & hardware circuit);
 - Proposed an electromechanical interface for power & communication transmission and orientation detection;
 - Developed a human-interaction software 3-DOF self-reconfigurable robot based on Qt Creator, and a series of experiments of the prototype were carried out.
+
+<table>
+<caption>Modular joint design for 3-DOF self-reconfigurable robot</caption>
+  <tr>
+    <th>Properties</th>
+    <th>Value</th>
+    <th>Properties</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>Mass</td>
+    <td>0.75kg</td>
+    <td>Size</td>
+    <td>φ75mm×L76mm</td>
+  </tr>
+  <tr>
+    <td>Mass</td>
+    <td>0.75kg</td>
+    <td>Size</td>
+    <td>φ75mm×L76mm</td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td>None</td>
+    <td>Repeated positioning accuracy</td>
+    <td>±0.5°</td>
+  </tr>
+  <tr>
+    <td>Encoder</td>
+    <td>Multi-abosolute</td>
+    <td>Sensor</td>
+    <td>Current, voltage, temperature</td>
+  </tr>
+  <tr>
+    <td>Power</td>
+    <td>24VDc</td>
+    <td>Communication</td>
+    <td>CAN Bus</td>
+  </tr>
+</table>
 <center>
 <img src="../images/MSR.jpg" width="70%" height="70%" />
 <center>3-DOF modular self-reconfigurable robot</center>
