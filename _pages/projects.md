@@ -8,6 +8,9 @@ author_profile: true
 # <font color="#1E90FF">7-DOF Modular Anthropomorphic Manipulator</font><br />
 ## **1. Structure & Hardware Design**
 - Design of three size robotic modular joint with embeded joint torque sensor;
+- Design of 7-DOF anthropomorphic manipulator;
+- Design of electromechanical coupling quick changer.
+
 <table>
   <caption> Actuator specifications </caption>
   <tr>
@@ -87,7 +90,6 @@ author_profile: true
     <td>2K Hz</td>
   </tr>
 </table>
-- Design of 7-DOF anthropomorphic manipulator;
 
 <table>
 <caption>7-DOF manipulator</caption>
@@ -116,7 +118,7 @@ author_profile: true
     <td>EtherCAT</td>
   </tr>
 </table>
-- Design of electromechanical coupling quick changer.
+
 <center>
 <img src="../images/robot.jpg" width="70%" height="70%" />
 <center>7-DOF manipulator prototype</center>
