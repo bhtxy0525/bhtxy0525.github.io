@@ -49,6 +49,12 @@ author_profile: true
     <td>EtherCAT</td>
     <td>EtherCAT</td>
   </tr>
+  <tr>
+    <td>Break</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
 </table>
 
 <table>
