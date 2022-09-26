@@ -136,7 +136,7 @@ author_profile: true
 - Dynamics modeing and simulation of 7-DOF manipulator.
 <center>
 <img src="../images/kinematics.jpg" width="100%" height="100%" />
-<center>Dexterous hand prototype</center>
+<center>7-DOF manipulator kinematics</center>
 </center>
 
 ## **3. Flexible Joint Modeling, Parameter Identification, and Compliance Control**
