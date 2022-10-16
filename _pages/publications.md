@@ -22,4 +22,6 @@ author_profile: true
 
 - **Xinyang Tian**, Qiang Zhan. Design of ArmBot: A Self-Reconfigurable Robot Module with Electromechanical Connectors, In Proc. *2019 4th International Conference on Robotics and Automation Engineering (ICRAE)*, 2019, pp. 163-167.
 
-
+# Reviewer:
+- ICRA 2023
+- IEEE Robotics and Automation Letters 
