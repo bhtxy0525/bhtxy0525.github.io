@@ -7,8 +7,8 @@ author_profile: true
 
 ## **2022**
 
-- **Xinyang Tian**, Qiang Zhan, and Yin Zhang. Simplified Configuration Design of an Anthropomorphic Hand Imitating Specific Human Hand Grasps. *IEEE Robotics and Automation Letters*. (Accept)
-- Qiang Zhan, **Xinyang Tian**, and Qinhuan Xu, A Continuous Approach for Task Transition of Redundant robot Under Hard Joint Constraints, *IEEE Robotics and Automation Letters*. (Under Review)
+- **Xinyang Tian**, Qiang Zhan, and Yin Zhang. Simplified Configuration Design of an Anthropomorphic Hand Imitating Specific Human Hand Grasps. *IEEE Robotics and Automation Letters*. DOI: 10.1109/LRA.2022.3224309
+- Qiang Zhan, **Xinyang Tian**, and Qinhuan Xu, A Continuous Trajectory Planning Approach for Task Transition of Redundant robot with Hard Joint Constraints, *IEEE Transactions on industrial electronics*. (Under Review)
 - **Xinyang Tian**, Qiang Zhan, and Ziyang Cheng. Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Modular Manipulator, *IEEE Sensors*. (On line)
 - **Xinyang Tian**, Qiang Zhan, and Qinhuan Xu. Flexible Joint Controller Design based on desired impedance behavior, *Journal of Harbin Institute of Technology*. (EI, Minor revision)
 
