@@ -7,15 +7,15 @@ author_profile: true
 
 ## **2022**
 
-- **Xinyang Tian**, Qiang Zhan, and Yin Zhang. Simplified Configuration Design of an Anthropomorphic Hand Imitating Specific Human Hand Grasps. *IEEE Robotics and Automation Letters*. DOI: 10.1109/LRA.2022.3224309
+- **Xinyang Tian**, Qiang Zhan, and Yin Zhang. Simplified Configuration Design of an Anthropomorphic Hand Imitating Specific Human Hand Grasps. *IEEE Robotics and Automation Letters*, vol.8, no.1, pp. 152-159, 2022. 
 - Qiang Zhan, **Xinyang Tian**, and Qinhuan Xu, A Continuous Trajectory Planning Approach for Task Transition of Redundant robot with Hard Joint Constraints, *IEEE Transactions on industrial electronics*. (Under Review)
 - **Xinyang Tian**, Qiang Zhan, and Ziyang Cheng. Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Modular Manipulator, *IEEE Sensors*. (On line)
 - **Xinyang Tian**, Qiang Zhan, and Qinhuan Xu. Flexible Joint Controller Design based on desired impedance behavior, *Journal of Harbin Institute of Technology*. (EI, Minor revision)
 
 ## **2021**
 
-- **Xinyang Tian**, Qiang Zhan. A Hermaphrodite Electromechanical Connector for Self-reconfigurable Robot Modules, *IEEE/ASME Transactions on Mechatronics*, vol. 26, no. 6, pp: 3276-3281, 2021. 
-- **Xinyang Tian**, Qinhuan Xu, and Qiang Zhan. An analytical inverse kinematics solution with joint limits avoidance of 7-DOF anthropomorphic manipulators without offset, *Journal of the Franklin Institute*, vol.358, no.2, pp.1252-1272, 2021. 
+- **Xinyang Tian**, Qiang Zhan. A Hermaphrodite Electromechanical Connector for Self-reconfigurable Robot Modules, *IEEE/ASME Transactions on Mechatronics*, vol. 26, no. 6, pp. 3276-3281, 2021. 
+- **Xinyang Tian**, Qinhuan Xu, and Qiang Zhan. An analytical inverse kinematics solution with joint limits avoidance of 7-DOF anthropomorphic manipulators without offset, *Journal of the Franklin Institute*, vol.358, no.2, pp. 1252-1272, 2021. 
 - Qinhuan Xu, Qiang Zhan, and **Xinyang Tian**. Link Lengths Optimization Based on Multiple Performance Indexes of Anthropomorphic Manipulators, *IEEE Access*, vol. 9, pp. 20089-20099, 2021. 
 
 ## **2019**
