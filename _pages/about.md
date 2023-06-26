@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 # **Biography**
-I received the B.E. degree in Mechanical Engineering from Northeast Agricultural University, Harbin, China, in 2016. Currently, I am pursuing the Ph.D. degree with the Robotics Institute, Beihang University.
+I received the B.E. degree in Mechanical engineering from Northeast Agricultural University, Harbin, China, in 2016. I received my Ph.D. degree in Mechatronic engineering from Beihang University, Beijing, China, in 2023.
 
 # **Education**
 - Ph.D. in Mechatronic Engineering, Beihang University, 2016.09-2023.06;
