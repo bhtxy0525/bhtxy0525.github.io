@@ -4,13 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## **2024**
+
+- **Xinyang Tian**, Ziyang Cheng, Mingde Bi, Jiefan Zhu. Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Collaborative Robots. *IEEE Sensors Journal*, vol. 24, no. 8, pp. 12074-12084, 2024.
+
 
 ## **2023**
 
 - **Xinyang Tian**, Qiang Zhan, and Yin Zhang. Simplified Configuration Design of an Anthropomorphic Hand Imitating Specific Human Hand Grasps. *IEEE Robotics and Automation Letters*, vol.8, no.1, pp. 152-159, 2022.
 - **Xinyang Tian**, Qiang Zhan, and Qinhuan Xu. Flexible Joint Controller Design based on desired impedance behavior, *Journal of Harbin Engineering University*. (EI)
-- Qinhuan Xu, **Xinyang Tian**, and Qiang Zhan, A Continuous Trajectory Planning Approach for Task Transition of Redundant Robot with Hard Joint Constraints, *IEEE Transactions on industrial informatics*. (Major revision)
-- Ziyang Cheng, **Xinyang Tian** (*Corresponding author*). Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Modular Manipulator, *IEEE Sensors Journal*. (Under Review)
 
 
 ## **2021**
@@ -24,5 +26,6 @@ author_profile: true
 - **Xinyang Tian**, Qiang Zhan. Design of ArmBot: A Self-Reconfigurable Robot Module with Electromechanical Connectors, In Proc. *2019 4th International Conference on Robotics and Automation Engineering (ICRAE)*, 2019, pp. 163-167.
 
 # Reviewer
-- ICRA 2023
+- ICRA 2024 ICRA 2023
+- IROS 2024
 - IEEE Robotics and Automation Letters 
