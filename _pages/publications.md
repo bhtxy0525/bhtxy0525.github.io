@@ -7,7 +7,7 @@ author_profile: true
 ## **2025**
 - **Xinyang Tian**, Xiaolong Yu, Qinhuan Xu, Jianwei Niu, Wei Wang. Robot impedance control with restricted energy and power under contact loss, *Control and Decision*. (EI)
 - **Xinyang Tian**. Tracking Control of 7-DOF Redundant Manipulators with Enhanced Null Space Compliance. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*, 2025, pp. 18551-18557.
-- **Xinyang Tian**, Xiaolong Yu, Jianwei Niu, Wei Wang. Passivity-Based Impedance Control With Energy-Aware and Safety Null Space Compliance for 7-DOF Redundant Robots. *IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS*, early access, 2025.
+- **Xinyang Tian**, Xiaolong Yu, Jianwei Niu, Wei Wang. Passivity-Based Impedance Control With Energy-Aware and Safety Null Space Compliance for 7-DOF Redundant Robots. *IEEE Transactions on Industrial Electronics*, early access, 2025.
 
 
 ## **2024**
