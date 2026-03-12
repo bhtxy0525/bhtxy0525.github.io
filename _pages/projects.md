@@ -5,8 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 ---
-# <font color="#1E90FF">7-DOF Modular Anthropomorphic Manipulator</font><br />
-## **1. Structure & Hardware Design**
+# <font color="#1E90FF">Postdoctoral Research<br />
+1. 浙江省青年科学基金(Zhejiang Provincial Natural Science Foundation for Young Scientists)
+2. 中国博士后科学基金第75批面上资助(China Postdoctoral Science Foundation)
+# <font color="#1E90FF">Doctoral Research</font><br />
+## <font color="#1E90FF">7-DOF Modular Anthropomorphic Manipulator</font><br />
+### **1. Structure & Hardware Design**
 - Design of three size robotic modular joint with embeded joint torque sensor;
 - Design of 7-DOF anthropomorphic manipulator;
 - Design of electromechanical coupling quick changer.
@@ -130,7 +134,7 @@ author_profile: true
 <center>7-DOF manipulator prototype</center>
 </center>
 
-## **2. Kinematics & Dynamics Modeling and Simulation**
+### **2. Kinematics & Dynamics Modeling and Simulation**
 - Arm configuration, forward kinematics, workspace(Reachable & Dexterous) and manipulability analysis;
 - Analytical inverse kinematics solution with arm manifold, free-singularity and joint limits avoidance for 7-DOF manipulator;
 - Dynamics modeing and simulation of 7-DOF manipulator.
@@ -139,7 +143,7 @@ author_profile: true
 <center>7-DOF manipulator kinematics</center>
 </center>
 
-## **3. Flexible Joint Modeling, Parameter Identification, and Compliance Control**
+### **3. Flexible Joint Modeling, Parameter Identification, and Compliance Control**
 - Flexible joint modeing;
 - Motor-torque coefficient identification, friction identification, stiffness and damping identification;
 - Full-state feedback control.
@@ -152,20 +156,20 @@ author_profile: true
 <center>Identification software</center>
 </center>
 
-## **4. 7-DOF Manipulator Compliance Control**
+### **4. 7-DOF Manipulator Compliance Control**
 - Joint space impedance control;
 - Cartesian space impedance control;
 - Nullspace impedance control.
 
-## **5. Related Media** 
+### **5. Related Media** 
 - [Joint torque sensor](https://youtu.be/-RE1b1pkxbM)
 - [Robotic modular joint](https://youtu.be/8-BTJ6ExhIA)
 - [7-DOF manipulator](https://youtu.be/ncxNLygdOeQ)
 
 ---
 
-# <font color="#1E90FF">Dexterous Hand Design and Compliance Control</font><br />
-## **Main work:**
+## <font color="#1E90FF">Dexterous Hand Design and Compliance Control</font><br />
+### **Main work:**
 - Proposed a simplified configuration to imitate the daily human hand grasps;
 - Dexterous hand design, including modular finger design, thumb design, palm design, and layout optimization;
 - Developed a hand prototype, and the dexterity of the prototype was verified by Cutkosky classification test.
@@ -203,12 +207,12 @@ author_profile: true
 <center>Dexterous hand prototype</center>
 </center>
 
-## **Related Media**
+### **Related Media**
 - [Cutkosky test of CMIC-6 dexterous hand](https://www.youtube.com/watch?v=M8hLrL9GSCc&ab_channel=%E7%94%B0%E6%96%B0%E6%89%AC)
 - [Dynamic grasp test of CMIC-6 dexterous hand](https://youtu.be/DGV9z6wZOHE)
 
-# <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
-## **Main work:**
+## <font color="#1E90FF">Self-Reconfigurable Modular Robot</font><br />
+### **Main work:**
 - Responsible for the 3-DOF self-reconfigurable robot design, including modular joint design (structure), connector design (structure & hardware circuit);
 - Proposed an electromechanical interface for power & communication transmission and orientation detection;
 - Developed a human-interaction software 3-DOF self-reconfigurable robot based on Qt Creator, and a series of experiments of the prototype were carried out.
