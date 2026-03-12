@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## **2025**
+- **Xinyang Tian**, Xiaolong Yu, Qinhuan Xu, Jianwei Niu, Wei Wang. Robot impedance control with restricted energy and power under contact loss, *Control and Decision*. (EI)
+- **Xinyang Tian**. Tracking Control of 7-DOF Redundant Manipulators with Enhanced Null Space Compliance. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*, 2025, pp. 18551-18557.
+- **Xinyang Tian**, Xiaolong Yu, Jianwei Niu, Wei Wang. Passivity-Based Impedance Control With Energy-Aware and Safety Null Space Compliance for 7-DOF Redundant Robots. *IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS*, early access, 2025.
+
+
 ## **2024**
 
 - **Xinyang Tian**, Ziyang Cheng, Mingde Bi, Jiefan Zhu. Ultra-Compact Joint Torque Sensor Units with Enhanced Resolution for Collaborative Robots. *IEEE Sensors Journal*, vol. 24, no. 8, pp. 12074-12084, 2024.
