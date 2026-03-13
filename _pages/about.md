@@ -13,8 +13,8 @@ I received the B.Eng. degree in mechanical engineering from Northeast Agricultur
 
 # **Education**
 - Postdoctoral Researcher in Computer Science, Hangzhou Innovation Institute of Beihang University, July 2023 - July 2025
-- Ph.D. in Mechatronic Engineering, Beihang University, 2016.09-2023.06;
-- Bachelor of Engineering in Mechanical Engineering, Northeast Agricultural University, Harbin, China, 2012.09-2016.06.
+- Ph.D. in Mechatronic Engineering, Beihang University, September 2016 - June 2023;
+- Bachelor of Engineering in Mechanical Engineering, Northeast Agricultural University, Harbin, China, September 2012 - June 2016.
 
 # **Research**
 - Robotic modular joint and redundant manipulator design; 
